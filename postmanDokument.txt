@@ -1,0 +1,10 @@
+o Vad är svårast att förstå i verktyget Postman?
+
+Det svåraste tyckte jag att hitta hjälp på nätet om hur man använder och tar fram
+det som begärs tex. Inkludera en Get-request i testet för att verifiera att korrekt bokning
+faktiskt har sparats i databasen. hur skall syntaxen vara och hur vet jag om det funkar..
+
+o Vad var svårast med labben och varför?
+
+Det svåraste var och är att förstå frågan korrekt och hur skall jag finna det som sökes
+och veta om man har gjort rätt eller om det är en kuggis i frågan.
